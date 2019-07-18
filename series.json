@@ -1135,11 +1135,11 @@
     "idname":"howtoelldrugsonline",
     "title":"how to sell drugs online",
     "pg":"img/series/howtoelldrugsonline.jpg",
-    "t5" : {
+    "t1" : {
 
       "id":"id0",
-      "idname":"t5",
-      "title":"Temporada 5",
+      "idname":"t1",
+      "title":"Temporada 1",
       "v1" : {
         "id" : "id0",
         "idname" : "v1",
