@@ -1,0 +1,322 @@
+{
+
+  "AnnabelleVieneCasa" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "AnnabelleVieneCasa",
+  "title":"Annabelle 3: Viene a Casa",
+  "img" : "https://static.pelisplus.co/movie/cover/original/72c5cf022700110838c6a9238f7698eb.jpg",
+  "pg" : "https://drive.google.com/file/d/1s439jQOkqok091atCdeQD_-3tVvq6zyg/preview?authuser=0"
+  }
+
+
+
+,
+
+  
+  "SpiderManLejosdeCasa" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "SpiderManLejosdeCasa",
+  "title":"Spider-Man: Lejos de Casa",
+  "img" : "https://static.pelisplus.co/movie/cover/original/af385cf7cfa7ad26d4c00b1afc9fec77.jpg",
+  "pg" : "https://drive.google.com/file/d/1PleN3ICJhEnxty6NzvL8H0b6UpNX0H-A/preview?authuser=0"
+  }
+
+
+
+,
+
+  
+
+  "TheDirt" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "TheDirt",
+  "title":"The Dirt  2019",
+  "img" : "img/pelis/TheDirt.jpg",
+  "pg" : "https://storage.googleapis.com/brilliant-flame-242818.appspot.com/Copi/The.Dirt.xmdx.Latino.hd1080.mp4"
+  }
+
+
+  
+
+
+
+ ,
+  "toy4" : {
+    "vid":"1",
+      "id" : "id0-1",
+    "idname" : "toy4",
+    "title":"Toy Story 4",
+    "img" : "img/pelis/toy4.jpg",
+    "pg" : "https://drive.google.com/file/d/13jY4QRi6LX-5_cSIShY1g0kEtRtEeDZn/preview?authuser=0"
+    },
+ 
+ 
+  "Spidermanunnue" : {
+    "vid":"1",
+      "id" : "id0",
+    "idname" : "Spidermanunnue",
+    "title":"Spider man un nuevo universo 2019",
+    "img" : "img/pelis/spidemanuni.jpg",
+    "pg" : "https://drive.google.com/file/d/1ETA7QznnWfLie9vWgH7fZ0VLtfhYyeR7/preview?authuser=0"
+    },
+
+    "BirdBox" : {
+      "vid":"1",
+      "id" : "id1",
+    "idname" : "BirdBox",
+    "title":"Bird Box 2019",
+    "img" : "img/pelis/BirdBox.jpg",
+    "pg" : "https://drive.google.com/file/d/1z9UzJ_vcTulfAD8NdYqER_SttvXjVru0/preview?authuser=0"
+    },
+
+    "aladdin" : {
+      "vid":"1",
+      "id" : "id2",
+    "idname" : "aladdin",
+    "title":"Aladdin 2019",
+    "img" : "img/pelis/aladdin.jpg",
+    "pg" : "https://drive.google.com/file/d/1V8WTKaQcE_cJcCIjByhxaYRE4e-UiF7a/preview?authuser=0"
+    },
+
+    "nmisteriobordo" : {
+      "vid":"1",
+      "id" : "id3",
+    "idname" : "nmisteriobordo",
+    "title":"Misterio a bordo 2019",
+    "img" : "img/pelis/misteriobordo.jpg",
+    "pg" : "https://drive.google.com/file/d/1o4UKOkRNUQHxVh_ds322ygQ2xzn4JUdU/preview?authuser=0"
+    }
+
+    ,
+
+    "Aniquilacion" : {
+      "vid":"1",
+      "id" : "id4",
+    "idname" : "Aniquilacion",
+    "title":"Aniquilacion 2019",
+    "img" : "img/pelis/aniquilacion.jpg",
+    "pg" : "https://drive.google.com/file/d/1E-BAcUpB3z9KgCwe-1meN1DvZvjG-Iy1/preview?authuser=0"
+    }
+
+
+    ,
+
+    "Comoentrenaratudragon" : {
+      "vid":"1",
+      "id" : "id5",
+    "idname" : "Comoentrenaratudragon",
+    "title":"Cómo entrenar a tu dragón 2019",
+    "img" : "img/pelis/entrenartudragon.jpg",
+    "pg" : "https://drive.google.com/file/d/1MGiUKYejWSWNMgFyfbHZ08j87JwSVFP-/preview?authuser=0"
+    }
+    ,
+
+    "deadwood" : {
+      "vid":"1",
+      "id" : "id6",
+    "idname" : "deadwood",
+    "title":"Dead wood 2019",
+    "img" : "img/pelis/deadwood.jpg",
+    "pg" : "https://drive.google.com/file/d/1_TQi5vKt0ililcPHYVslIvvwyIo8ct78/preview?authuser=0"
+    }
+    ,
+
+    "elninoquedomoelviento" : {
+      "vid":"1",
+      "id" : "id7",
+    "idname" : "elninoquedomoelviento",
+    "title":"El niño que domo el viento 2019",
+    "img" : "img/pelis/domoviento.jpg",
+    "pg" : "https://drive.google.com/file/d/16c6-luMQdjXJfLQkKNpN3RoSPRSyqX3b/preview?authuser=0"
+    }
+    ,
+
+    "Elsilencio" : {
+      "vid":"1",
+      "id" : "id8",
+    "idname" : "Elsilencio",
+    "title":"El silencio 2019",
+    "img" : "img/pelis/Elsilencio.jpg",
+    "pg" : "https://drive.google.com/file/d/1JXweK1bmWl7LyhX7w_BCCPVKBcWS6gp-/preview?authuser=0"
+    }
+
+    ,
+
+    "enlasbuenasyenlasmalas" : {
+      "vid":"1",
+      "id" : "id9",
+    "idname" : "enlasbuenasyenlasmalas",
+    "title":"Enlas buenas y en las malas 2019",
+    "img" : "img/pelis/enlasbuenasyenlasmalas.jpg",
+    "pg" : "https://drive.google.com/file/d/1tueGTJ7A4Op7LAEWatKNC_y3aIdyzxuh/preview?authuser=0"
+    }
+    ,
+
+    "hombresdenegro" : {
+      "vid":"1",
+      "id" : "id10",
+    "idname" : "hombresdenegro",
+    "title":"Hombres de negro 2019",
+    "img" : "img/pelis/hombresdenegro.jpg",
+    "pg" : "https://drive.google.com/file/d/17drYCGShmi5ybY3Lkn7Xxxov4IXZ_Vvy/preview?authuser=0"
+    }
+    ,
+
+    "Cargo" : {
+      "vid":"1",
+      "id" : "id11",
+    "idname" : "Cargo",
+    "title":"Cargo 2019",
+    "img" : "img/pelis/cargo.jpg",
+    "pg" : "https://drive.google.com/file/d/17vYr4LVV80NFDRyTgZDR96cUP0IOsuYB/preview?authuser=0"
+    }
+  ,
+    
+
+  "Adosti" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "Adosti",
+  "title":"A dos metros  de ti",
+  "img" : "https://image.tmdb.org/t/p/w154/guZ4xgDQTd2hyinwetHchpm5Oyc.jpg",
+  "pg" : "https://www1159.hlsmp4.com/token=5t6wRXAadl_mrSWHQ5YO7A/1562486645/0.0.0.0/46/d/ac/2b90d4ca7abee7ce72460c9d5c45dacd-480p.mp4"
+  }
+  ,
+    
+
+  "AndarMontarRodeo" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "AndarMontarRodeo",
+  "title":"Andar Montar Rodeo (2019)",
+  "img" : "https://image.tmdb.org/t/p/w154/1QTtPymPoq97vfZ2mVN0siOHUKs.jpg",
+  "pg" : "https://www346.hlsmp4.com/token=SXYIyPKzLcZozl30SuFHEQ/1562487369/0.0.0.0/37/7/51/2d23cd76ff47eff04bd4fb59f128c517-480p.mp4"
+  }
+  
+  ,
+    
+
+  "Alguienespecial" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "Alguienespecial",
+  "title":"Alguien especial (2019)",
+  "img" : "https://image.tmdb.org/t/p/w154/h0nz5lIBXeUZChBNfwL08bLWQaU.jpg",
+  "pg" : "https://www1365.hlsmp4.com/token=3QZKDDvqTI4Q8nucCV3uQw/1562487714/0.0.0.0/40/4/16/7858b0f280978dbf63bcf16283a32164-480p.mp4"
+  }
+
+  ,
+    
+
+  "Beats" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "Beats",
+  "title":"Beats (2019)",
+  "img" : "https://image.tmdb.org/t/p/w300/b8P13nIvkkizVBzd2RpegsRt5zP.jpg",
+  "pg" : "https://www1329.hlsmp4.com/token=w2_uWSqXTbxQo2eoezbFjA/1562488060/0.0.0.0/53/b/d8/0dc9c04a4d906ae4e154442b00578d8b-480p.mp4"
+  }
+
+
+  ,
+    
+
+  "Backdraft2" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "Backdraft2",
+  "title":"Backdraft 2 (2019)",
+  "img" : "https://image.tmdb.org/t/p/w300/xIpl4CRM9cWGYnHwCDUOAbu1k4i.jpg",
+  "pg" : "https://www387.hlsmp4.com/token=5_93jo6XV6xuo5_K3-GGSQ/1562488381/0.0.0.0/43/3/10/47cbf6eea972ade0f48700240d263103-480p.mp4"
+  }
+
+
+
+
+  ,
+    
+
+  "Cementeriodeanimales" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "Cementeriodeanimales",
+  "title":"Cementerio de animales  (2019)",
+  "img" : "https://image.tmdb.org/t/p/w300/ktEYyuUwreQgE3S8HMRcyxBHonC.jpg",
+  "pg" : "https://www1493.hlsmp4.com/token=DBJhQMdcshC91g7Qx5aTRQ/1562488603/0.0.0.0/53/5/ca/a900c5644c40a518a57dcb44ca883ca5-480p.mp4"
+  }
+
+
+
+  ,
+    
+
+  "Elninoquepudoserrey" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "Elninoquepudoserrey",
+  "title":"El niño que pudo ser rey  (2019)",
+  "img" : "https://image.tmdb.org/t/p/w300/fe1e9mKeoHf6stqUBBFZ1JKtJET.jpg",
+  "pg" : "https://www366.hlsmp4.com/token=NEgYmrQru9-M30wG65WS6A/1562488867/0.0.0.0/38/d/cd/de4597fc88ea130e05a7a2076df50cdd-480p.mp4"
+  }
+
+
+  ,
+    
+
+  "Dumbo" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "Dumbo",
+  "title":"Dumbo(2019)",
+  "img" : "https://image.tmdb.org/t/p/w300/duvp1mgeVYs1vUknW8KXxhnVhzh.jpg",
+  "pg" : "https://www1131.hlsmp4.com/token=qoarUkiNXiCa4jxpa1liiw/1562489025/0.0.0.0/48/0/f4/c76a1cdb18908231eac9f024e20a2f40-480p.mp4"
+  }
+
+
+  ,
+    
+
+  "Elreinadodelossuperhombres" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "Elreinadodelossuperhombres",
+  "title":"El reinado de los superhombres(2019)",
+  "img" : "https://image.tmdb.org/t/p/w300/e9TzqscNRUaG8HqEP3K1jUvi8pC.jpg",
+  "pg" : "https://www275.hlsmp4.com/token=cjHQY5I1kBS0nUbzWud7LQ/1562489318/0.0.0.0/23/2/ea/6264bfc785ac693bdb2da14e04c01ea2-480p.mp4"
+  }
+
+  ,
+    
+
+  "ElCaminoLargo" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "ElCaminoLargo",
+  "title":"El Camino Largo(2019)",
+  "img" : "https://image.tmdb.org/t/p/w300/eMx349I3yfYpmsP5T4FLbRuyP8e.jpg",
+  "pg" : "https://www1703.hlsmp4.com/token=ruVNmtvFQX3k9fHI-yM0KA/1562489503/0.0.0.0/36/8/02/7495e790b3d5e4eb441190008e36d028-480p.mp4"
+  }
+
+  ,
+    
+
+  "IAmMother" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "IAmMother",
+  "title":"I Am Mother (2019)",
+  "img" : "https://image.tmdb.org/t/p/w300/eItrj5GcjvCI3oD3bIcz1A2IL9t.jpg",
+  "pg" : "https://fvs.io/redirector?token=MzMrTm1YbXgxTEVBR0FROHFwbXNSSEx2djhmTDZYV2VXeVY4ejNxeFZMY1luWVhDbGVPZUJpbmpSU25vV1kzVFVPMHdmM1VJRFhXSlNCTFZZRDRFTDNHTHYwUjl3VExIMzBGR3d1aWZCTjcyRmNVWG5kbnBwcDgxaVFyV2xmL3ZFS2VwVW9QTlM1dC9ablN5amlkd1ZpeWpUcjdXemw1NXJBPT06b1diamowY0RNQldBVXIwWU9vUjRrdz09"
+  }
+
+
+
+
+
+
+}
+
+
