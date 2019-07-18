@@ -1129,6 +1129,41 @@
 
 
 
+  ,
+  "howtoelldrugsonline" : {
+    "id":"id7",
+    "idname":"howtoelldrugsonline",
+    "title":"how to sell drugs online",
+    "pg":"img/series/howtoelldrugsonline.jpg",
+    "t5" : {
+
+      "id":"id0",
+      "idname":"t5",
+      "title":"Temporada 5",
+      "v1" : {
+        "id" : "id0",
+        "idname" : "v1",
+        "img" : "",
+        "pg" : "https://drive.google.com/file/d/1V23YpsByl2pSu07LeDy_WSNjx4thTHZn/preview?authuser=0"
+      },
+      "v2" : {
+        "id" : "id1",
+        "idname" : "v2",
+        "img" : "",
+        "pg" : "https://drive.google.com/file/d/1iHErvlfgqKOmDGOsSChK27hTS0qAyYJT/preview?authuser=0"
+      },
+      "v3" : {
+        "id" : "id2",
+        "idname" : "v3",
+        "img" : "",
+        "pg" : "https://drive.google.com/file/d/1ojYLyj8AKRg7R9-upoupEi1IGdcWZrY3/preview?authuser=0"
+      }
+      
+     
+
+    }
+    
+  }
 
 
 
